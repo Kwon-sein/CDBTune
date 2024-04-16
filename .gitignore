@@ -1,0 +1,13 @@
+.*
+*.ipynb
+.gitignore
+*/__pycache__/*
+tuner/model_params/*
+tuner/save_knobs/*
+tuner/save_memory/*
+tuner/save_state_actions/*
+environment/internal_ensemble_pruned_tmp.csv
+environment/result.txt
+environment/rocksdb_workload_info.csv
+tuner/bestnow.log
+tuner/log/*
